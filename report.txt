@@ -1,0 +1,45 @@
+Cloud_pct
+Feels_like
+Humidity
+Max_temp
+Min_temp
+Sunrise
+Sunset
+Temp
+Wind_degrees
+Wind_speed
+
+
+
+
+{
+  cloud_pct.innerHtml= response.cloud_pct
+  temp.innerHtml= response.temp
+  feels_like.innerHtml= response.feels_like 
+  humidity.innerHtml= response.humidity 
+  min_temp.innerHtml= response.min_temp 
+  max_temp.innerHtml= response.max_temp 
+  wind_speed.innerHtml= response.wind_speed
+  wind_degrees.innerHtml= response.wind_degrees
+  sunrise.innerHtml= response.sunrise
+  sunset.innerHtml= response.sunset
+}
+
+
+
+
+
+cloud_pct
+temp 
+feels_like 
+humidity 
+min_temp 
+max_temp 
+wind_speed
+wind_degrees
+sunrise
+sunset
+}
+
+
+style="background-color: cadetblue";
